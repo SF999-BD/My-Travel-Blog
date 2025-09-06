@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    background-color:gray;
+    font-weight: bolder;
+    font-family:'Lucida Handwriting', cursive;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    background-color: lemonchiffon;
+}
+
+.start{
+    font-weight: 600;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.intro{
+    text-align: justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;   
+}
+
+#khabar{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+iframe{
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#shesh{
+    background-color:darkolivegreen;
+}
